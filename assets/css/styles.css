@@ -10127,7 +10127,7 @@ h3 {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: #343a40;
+  background-color: white;
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 20;
@@ -10212,4 +10212,16 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #1a252f;
+}
+
+#prez {
+
+  background-image: url('../fond.jpg');
+  background-size: 100% 100%;
+  opacity: 70%;
+  background-color: white;
+}
+
+#tel {
+  text-decoration: none;
 }
